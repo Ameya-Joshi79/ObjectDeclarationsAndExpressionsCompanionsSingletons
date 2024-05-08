@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa5f70e3-2634-48c7-b2db-b7a70c09f411" name="Changes" comment="" />
+    <list default="true" id="fa5f70e3-2634-48c7-b2db-b7a70c09f411" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Duck.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DuckDeletion.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MyDuck2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MyDucks.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/newduckspackage/DuckChecker.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/newduckspackage/MySingleton.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/newduckspackage/NewDucksManager.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/App.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2gCB41ShPuFcdaqbvSF1gR0GOcv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -32,5 +53,16 @@
       <updated>1715191485049</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
