@@ -89,4 +89,20 @@ fun main(args:Array<String>){
 
     println("Is Duck Barbara present in the List: ${DuckChecker().listHasDuck(Duck("Barbara"))}")
 
+
+    var x = 0
+
+    var y = 0
+
+    while (x < 10){
+        x++
+
+        continue
+
+        y++
+    }
+
+    println("Value of x is $x")
+
+    println("Value of y is $y")
 }

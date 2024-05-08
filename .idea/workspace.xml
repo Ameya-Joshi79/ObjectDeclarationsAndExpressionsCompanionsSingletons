@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa5f70e3-2634-48c7-b2db-b7a70c09f411" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Duck.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DuckDeletion.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MyDuck2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MyDucks.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/newduckspackage/DuckChecker.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/newduckspackage/MySingleton.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/newduckspackage/NewDucksManager.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/App.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
